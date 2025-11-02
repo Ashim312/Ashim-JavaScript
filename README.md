@@ -1,0 +1,2 @@
+# Ashim-JavaScript
+This is my first Git Repository.
